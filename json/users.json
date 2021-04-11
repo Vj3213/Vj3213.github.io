@@ -1,0 +1,169 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "image": "http://www.nretnil.com/avatar/LawrenceEzekielAmos.png",
+        "countryCode": 862,
+        "phoneNumber": "871-7868",
+        "emailId": "krish.lee@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 2,
+        "firstName": "Racks",
+        "lastName": "Jacson",
+        "image": "https://gravatar.com/avatar/ba22158aa7f2d76a5b25333bf39da878?s=200&d=robohash&r=x",
+        "countryCode": 809,
+        "phoneNumber": "469-5649",
+        "emailId": "racks.jacson@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 3,
+        "firstName": "Denial",
+        "lastName": "Roast",
+        "image": "https://gravatar.com/avatar/331854255b0e6637c9b28dfc556bbe7d?s=200&d=robohash&r=x",
+        "countryCode": 715,
+        "phoneNumber": "772-4811",
+        "emailId": "denial.roast@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 4,
+        "firstName": "Devid",
+        "lastName": "Neo",
+        "image": "https://avatarfiles.alphacoders.com/105/105223.jpg",
+        "countryCode": 884,
+        "phoneNumber": "814-7023",
+        "emailId": "devid.neo@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 5,
+        "firstName": "Jone",
+        "lastName": "Mac",
+        "image": "https://avatarfiles.alphacoders.com/103/103373.png",
+        "countryCode": 906,
+        "phoneNumber": "693-7836",
+        "emailId": "jone.mac@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 6,
+        "firstName": "Gaurav",
+        "lastName": "Rawat",
+        "image": "https://avatarfiles.alphacoders.com/129/129627.png",
+        "countryCode": 91,
+        "phoneNumber": "729-8160",
+        "emailId": "gauravrawat18@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 7,
+        "firstName": "Sultan",
+        "lastName": "Alam",
+        "image": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
+        "countryCode": 91,
+        "phoneNumber": "244-6527",
+        "emailId": "sultanalam786@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 8,
+        "firstName": "Hitesh",
+        "lastName": "Kast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wDPwJS1ywfBS44U4THRSrhyRC-GGKx_fJgGqx0ueNLRCmHFbsq2BGDcNGNQ3su_7Li4&usqp=CAU",
+        "countryCode": 91,
+        "phoneNumber": "344-7685",
+        "emailId": "hitesh.kast@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 9,
+        "firstName": "Leslie",
+        "lastName": "Alexander",
+        "image": "https://www.researchgate.net/profile/Jaime-Velasco-Medina/publication/267847345/figure/fig4/AS:667836825493520@1536236115909/Lenabmp-used-for-testing-purposes-Resolution-320x240-pixels-24-bit-RGB-Size-230454_Q320.jpg",
+        "countryCode": 949,
+        "phoneNumber": "781-7822",
+        "emailId": "leslie.alexander@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 10,
+        "firstName": "Courtney",
+        "lastName": "Henry",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-o3MbyjHv5-Yq6tMdg4_NpHdyyLsxUou2Q&usqp=CAU",
+        "countryCode": 884,
+        "phoneNumber": "729-8142",
+        "emailId": "courtney.henry@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 11,
+        "firstName": "Jane",
+        "lastName": "Cooper",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwmHQ_06eIIw656q8vHyiqEAwewhD3mt9mg&usqp=CAU",
+        "countryCode": 236,
+        "phoneNumber": "453-7432",
+        "emailId": "jane.cooper@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 12,
+        "firstName": "Beck",
+        "lastName": "Russell",
+        "image": "https://images.indianexpress.com/2018/12/monkey.jpg",
+        "countryCode": 862,
+        "phoneNumber": "213-8984",
+        "emailId": "beck.russell@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 13,
+        "firstName": "Dianne",
+        "lastName": "Russell",
+        "image": "https://www.iams-india.com/images/free-sample-banner-mobile.png",
+        "countryCode": 715,
+        "phoneNumber": "167-3426",
+        "emailId": "dianne.russell@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 14,
+        "firstName": "Andre",
+        "lastName": "Howard",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVx6CB56pxO8gwlzLLOkV8fPN0jfF3T_98w&usqp=CAU",
+        "countryCode": 906,
+        "phoneNumber": "782-3469",
+        "emailId": "andre.howard@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      },
+      {
+        "id": 15,
+        "firstName": "Kristin",
+        "lastName": "Watson",
+        "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2018/05/mars_sample_return/17493376-1-eng-GB/Mars_sample_return_pillars.jpg",
+        "countryCode": 809,
+        "phoneNumber": "201-9704",
+        "emailId": "kristin.watson@gmail.com",
+        "address": "3740 Rainy Day Drive Boston",
+        "website": "www.google.com"
+      }
+    ]
+  }
